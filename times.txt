@@ -1,1 +1,1 @@
-zwsTimeStart{\"Ecodoc\":@\"2013-12-12 12:12\"}zwsTimeEnd
+zwsTimeStart{"Ecodoc":@"2013-12-12 12:12"}zwsTimeEnd
